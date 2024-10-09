@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.hover-effect:hover {
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3); 
+  transform: translateY(-5px); 
+}
